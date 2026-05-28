@@ -5,13 +5,13 @@
 
 # Approach
 #Iterate through the string from left to right.
-
+#
 #If the current character is an opening bracket, push it onto the stack.
-
+#
 #If it is a closing bracket, check whether the stack is empty.
-
+#
 #If the stack is empty or the top element does not match, return False.
-
+#
 #After processing the whole string, the stack must be empty for the string to be valid.
 
 # Complexity
@@ -21,7 +21,9 @@
 #O(n)
 
 # Solution Code
-```python3 []
+#
+#
+#python3
 class Solution:
     def isValid(self, s: str) -> bool:
         openingCharacters = {
@@ -58,4 +60,3 @@ class Solution:
             return True
         else:
             return False
-```
