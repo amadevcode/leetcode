@@ -1,9 +1,9 @@
 # LeetCode Solutions
 
-This repository contains my LeetCode solutions in Python3 (For now).
+This repository contains my LeetCode solutions in Python 3.
 
 ## About me
-I am currently an early-intermediate developer.  
+I am an early-intermediate developer.  
 I know the basics of programming and I am using this repository to improve my problem-solving skills, learn common DSA patterns, and build stronger coding habits.
 
 ## Goals
@@ -13,11 +13,13 @@ I know the basics of programming and I am using this repository to improve my pr
 - Track my progress over time
 
 ## Structure
-### (Programing languages which I do LeetCode with)
+### Programming languages I use for LeetCode
 - `Python3/`
 
 ## Notes
-Some solutions are brute force first, then improved later.
+Some solutions are brute force first, then improved later.  
 I focus on understanding the pattern behind each problem.
 
-## If you want to fork the repo, I'll try to check what you've done and to inspire me from that!
+## Forks
+If you fork this repository, you are free to use it as a reference for your own practice.
+I'll also try to improve my code/work based on the forks.
