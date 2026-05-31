@@ -23,6 +23,12 @@
 #
 #
 #python3
+#
+#2 <= nums.length <= 104
+#-109 <= nums[i] <= 109
+#-109 <= target <= 109
+#Only one valid answer exists.
+#Less than O(n2) time complexity
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for index in range(0, len(nums)):
