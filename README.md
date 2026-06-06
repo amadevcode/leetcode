@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my LeetCode solutions in Python 3.
+This repository contains my LeetCode solutions in Python 3 and in C.
 
 ## About me
 I am an early-intermediate developer.  
@@ -15,6 +15,7 @@ I know the basics of programming and I am using this repository to improve my pr
 ## Structure
 ### Programming languages I use for LeetCode
 - `Python3/`
+- `C/`
 
 ## Notes
 Some solutions are brute force first, then improved later.  
